@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_calcular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_enviar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_FolhaDePagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_funcionario1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_funcionario2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_funcionario3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_funcionario4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_historico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_realizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_Relatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\V_total.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
